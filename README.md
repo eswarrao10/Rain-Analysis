@@ -18,3 +18,4 @@ This project demonstrates the use of Python for [briefly describe your project's
 - [Any Libraries like Pandas, NumPy, Matplotlib, Scikit-learn, etc.]
 
 ## 📂 File Structure
+## Summary: Rain Analysis Project
